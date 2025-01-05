@@ -1,0 +1,1 @@
+This repository demonstrates a common MATLAB error caused by passing an incorrect data type to a function. The `bug.m` file shows the erroneous code, where a string is passed to a function expecting a numeric value. The solution, provided in `bugSolution.m`, includes input validation to prevent this type of error.
